@@ -1,0 +1,169 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# ÆÄÀÏ »ý¼ºµÊ: 17.03.2020 01:59:47
+
+newmtl ASE_A_4160_SL_MI
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\ASE_A_4160_SL_Diff.png
+	map_Kd maps\ASE_A_4160_SL_Diff.png
+
+newmtl ASE_A_4161_SL_MI
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\ASE_A_4161_SL_Diff.png
+	map_Kd maps\ASE_A_4161_SL_Diff.png
+
+newmtl ASE_A_4162_SL_MI
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\ASE_A_4162_SL_Diff.png
+	map_Kd maps\ASE_A_4162_SL_Diff.png
+
+newmtl ASE_A_4260_SL_MI
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\ASE_A_4260_SL_Diff.png
+	map_Kd maps\ASE_A_4260_SL_Diff.png
+
+newmtl ASE_A_4261_SL_MI
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\ASE_A_4261_SL_Diff.png
+	map_Kd maps\ASE_A_4261_SL_Diff.png
+
+newmtl ASE_A_4262_SL_MI
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd maps\ASE_A_4262_SL_Diff.png
+
+newmtl ASE_A_4263_SL_MI
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\ASE_A_4263_SL_Diff.png
+	map_Kd maps\ASE_A_4263_SL_Diff.png
+
+newmtl ASE_B_3960_SL_MI
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\ASE_B_3960_SL_Diff.png
+	map_Kd maps\ASE_B_3960_SL_Diff.png
+
+newmtl ASE_B_4059_SL_MI
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\ASE_B_4059_SL_Diff.png
+	map_Kd maps\ASE_B_4059_SL_Diff.png
+
+newmtl ASE_B_4060_SL_MI
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\ASE_B_4060_SL_Diff.png
+	map_Kd maps\ASE_B_4060_SL_Diff.png
+
+newmtl ASE_B_4061_SL_MI
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\ASE_B_4061_SL_Diff.png
+	map_Kd maps\ASE_B_4061_SL_Diff.png
+
+newmtl ASE_B_4159_SL_MI
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\ASE_B_4159_SL_Diff.png
+	map_Kd maps\ASE_B_4159_SL_Diff.png

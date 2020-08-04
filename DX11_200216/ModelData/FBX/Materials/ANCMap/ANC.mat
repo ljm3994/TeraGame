@@ -1,0 +1,227 @@
+<Materials>
+    <Material>
+        <Name>ANC_B_4656_SL_MI</Name>
+        <DiffuseFile>ANC_B_4656_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_B_4657_SL_MI</Name>
+        <DiffuseFile>ANC_B_4657_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_B_4658_SL_MI</Name>
+        <DiffuseFile>ANC_B_4658_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_B_4659_SL_MI</Name>
+        <DiffuseFile>ANC_B_4659_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_B_4660_SL_MI</Name>
+        <DiffuseFile>ANC_B_4660_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_B_4757_SL_MI</Name>
+        <DiffuseFile>ANC_B_4757_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_B_4758_SL_MI</Name>
+        <DiffuseFile>ANC_B_4758_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_B_4759_SL_MI</Name>
+        <DiffuseFile>ANC_B_4759_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_B_4760_SL_MI</Name>
+        <DiffuseFile>ANC_B_4760_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_B_4858_SL_MI</Name>
+        <DiffuseFile>ANC_B_4858_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_B_4859_SL_MI</Name>
+        <DiffuseFile>ANC_B_4859_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_B_4860_SL_MI</Name>
+        <DiffuseFile>ANC_B_4860_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_A_4756_SL_MI</Name>
+        <DiffuseFile>ANC_A_4756_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_A_4856_SL_MI</Name>
+        <DiffuseFile>ANC_A_4856_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_A_4857_SL_MI</Name>
+        <DiffuseFile>ANC_A_4857_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_A_4956_SL_MI</Name>
+        <DiffuseFile>ANC_A_4956_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_A_4957_SL_MI</Name>
+        <DiffuseFile>ANC_A_4957_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_A_5056_SL_MI</Name>
+        <DiffuseFile>ANC_A_5056_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_A_5057_SL_MI</Name>
+        <DiffuseFile>ANC_A_5057_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_C_4958_SL_MI</Name>
+        <DiffuseFile>ANC_C_4958_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_C_4959_SL_MI</Name>
+        <DiffuseFile>ANC_C_4959_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_C_4960_SL_MI</Name>
+        <DiffuseFile>ANC_C_4960_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_C_5058_SL_MI</Name>
+        <DiffuseFile>ANC_C_5058_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_C_5059_SL_MI</Name>
+        <DiffuseFile>ANC_C_5059_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ANC_C_5060_SL_MI</Name>
+        <DiffuseFile>ANC_C_5060_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+</Materials>

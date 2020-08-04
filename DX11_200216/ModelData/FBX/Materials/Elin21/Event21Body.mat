@@ -1,0 +1,38 @@
+<Materials>
+    <Material>
+        <Name>PC_Event_21A_Popori_F_01_Fur_MI</Name>
+        <DiffuseFile>PC_Event_21A_Popori_F_01_diff.png</DiffuseFile>
+        <SpecularFile>PC_Event_21A_Popori_F_01_spec.png</SpecularFile>
+        <NormalFile>PC_Event_21A_Popori_F_01_norm.png</NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0.89999998" G="0.89999998" B="0.89999998" A="2"/>
+    </Material>
+    <Material>
+        <Name>PC_Event_21A_Popori_F_01_MI</Name>
+        <DiffuseFile>PC_Event_21A_Popori_F_A_diff.png</DiffuseFile>
+        <SpecularFile>PC_Event_21A_Popori_F_A_spec.png</SpecularFile>
+        <NormalFile>PC_Event_21A_Popori_F_A_norm.png</NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0.89999998" G="0.89999998" B="0.89999998" A="2"/>
+    </Material>
+    <Material>
+        <Name>PC_Event_21A_Popori_F_A_MI</Name>
+        <DiffuseFile>PC_Event_21A_Popori_F_A_diff.png</DiffuseFile>
+        <SpecularFile>PC_Event_21A_Popori_F_A_spec.png</SpecularFile>
+        <NormalFile>PC_Event_21A_Popori_F_A_norm.png</NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0.89999998" G="0.89999998" B="0.89999998" A="2"/>
+    </Material>
+    <Material>
+        <Name>Popori_F_BaseBody_MI</Name>
+        <DiffuseFile>Popori_F_Base_diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile>Popori_F_Base_norm.png</NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0.89999998" G="0.89999998" B="0.89999998" A="2"/>
+    </Material>
+</Materials>

@@ -1,0 +1,29 @@
+<Materials>
+    <Material>
+        <Name>PC_Event_80_F_B_MI</Name>
+        <DiffuseFile>PC_Event_80_F_B_diff.png</DiffuseFile>
+        <SpecularFile>PC_Event_80_F_B_spec.png</SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0.89999998" G="0.89999998" B="0.89999998" A="2"/>
+    </Material>
+    <Material>
+        <Name>PC_Event_80_F_B_Trans_MI</Name>
+        <DiffuseFile>PC_Event_80_F_B_diff.png</DiffuseFile>
+        <SpecularFile>PC_Event_80_F_B_spec.png</SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0.89999998" G="0.89999998" B="0.89999998" A="2"/>
+    </Material>
+    <Material>
+        <Name>Popori_F_BaseBody_MI</Name>
+        <DiffuseFile>Popori_F_Base_diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0.89999998" G="0.89999998" B="0.89999998" A="2"/>
+    </Material>
+</Materials>

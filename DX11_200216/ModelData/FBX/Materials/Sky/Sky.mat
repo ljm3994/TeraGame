@@ -1,0 +1,11 @@
+<Materials>
+    <Material>
+        <Name>EX_ASE_Cloud00_MI</Name>
+        <DiffuseFile>EX_ASE_L0A.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+</Materials>

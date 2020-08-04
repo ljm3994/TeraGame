@@ -1,0 +1,110 @@
+<Materials>
+    <Material>
+        <Name>ASE_A_4160_SL_MI</Name>
+        <DiffuseFile>ASE_A_4160_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ASE_A_4161_SL_MI</Name>
+        <DiffuseFile>ASE_A_4161_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ASE_A_4162_SL_MI</Name>
+        <DiffuseFile>ASE_A_4162_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ASE_A_4260_SL_MI</Name>
+        <DiffuseFile>ASE_A_4260_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ASE_A_4261_SL_MI</Name>
+        <DiffuseFile>ASE_A_4261_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ASE_A_4262_SL_MI</Name>
+        <DiffuseFile>ASE_A_4262_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ASE_A_4263_SL_MI</Name>
+        <DiffuseFile>ASE_A_4263_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ASE_B_3960_SL_MI</Name>
+        <DiffuseFile>ASE_B_3960_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ASE_B_4059_SL_MI</Name>
+        <DiffuseFile>ASE_B_4059_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ASE_B_4060_SL_MI</Name>
+        <DiffuseFile>ASE_B_4060_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ASE_B_4061_SL_MI</Name>
+        <DiffuseFile>ASE_B_4061_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+    <Material>
+        <Name>ASE_B_4159_SL_MI</Name>
+        <DiffuseFile>ASE_B_4159_SL_Diff.png</DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0" G="0" B="0" A="10"/>
+    </Material>
+</Materials>

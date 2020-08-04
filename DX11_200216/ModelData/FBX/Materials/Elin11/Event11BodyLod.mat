@@ -1,0 +1,20 @@
+<Materials>
+    <Material>
+        <Name>PC_Event_11_Popori_F_03_MI</Name>
+        <DiffuseFile>PC_Event_11_Popori_F_03_Black_diff.png</DiffuseFile>
+        <SpecularFile>PC_Event_11_Popori_F_03_Black_spec.png</SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0.89999998" G="0.89999998" B="0.89999998" A="2"/>
+    </Material>
+    <Material>
+        <Name>PC_Event_11_Popori_F_03_name_MI</Name>
+        <DiffuseFile>PC_Event_11_Popori_F_03_diff_name.png</DiffuseFile>
+        <SpecularFile>PC_Event_11_Popori_F_03_spec.png</SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0.588" G="0.588" B="0.588" A="1"/>
+        <Diffuse R="0.588" G="0.588" B="0.588" A="1"/>
+        <Specular R="0.89999998" G="0.89999998" B="0.89999998" A="2"/>
+    </Material>
+</Materials>

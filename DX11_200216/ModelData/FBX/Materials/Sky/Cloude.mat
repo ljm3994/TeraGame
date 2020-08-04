@@ -1,0 +1,11 @@
+<Materials>
+    <Material>
+        <Name>material_220</Name>
+        <DiffuseFile></DiffuseFile>
+        <SpecularFile></SpecularFile>
+        <NormalFile></NormalFile>
+        <Ambient R="0" G="0" B="0" A="1"/>
+        <Diffuse R="0.60000002" G="0.60000002" B="0.60000002" A="1"/>
+        <Specular R="0" G="0" B="0" A="0"/>
+    </Material>
+</Materials>
